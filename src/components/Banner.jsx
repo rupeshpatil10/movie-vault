@@ -9,9 +9,7 @@ function Banner() {
           "url(https://dubeat.com/wp-content/uploads/2014/11/interstellar.jpg)",
       }}
     >
-      <div className="text-white text-2xl w-full text-center bg-blue-900/60 p-4">
-        Interstellar
-      </div>
+     
     </div>
   );
 }
